@@ -1,19 +1,17 @@
-Link to the unlisted YouTube video:
+Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/12Gmj7MaMbpHSGgmg7XpxHTkLYqnf01qiSX2f3_j77Go/edit?usp=sharing
 
-Project title:
-Leveraging sentiment analysis to detect social media bullies
+Paper title:
+Research on the application of Deep Learning Algorithm in Image Classification 
+
+Link to the paper:
+https://ieeexplore......
 
 Group Number:
-6
+29
 
-Group Members:
-21166008 Syed Zamil Hasan
-23366022 Nishat Nayla
-23366023 Sabbir Hossain
+Individual Submitter:
 23366033 Tamanna Afroz
-23366044 Nabuat Zaman Nahim
-23366050 Fairoz Nower Khan
