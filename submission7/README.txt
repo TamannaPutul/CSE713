@@ -1,5 +1,5 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/64fe914a4144caa227b87d14
+https://www.overleaf.com/read/qjwmggqvcnwr
 
 Unlisted YouTube video:
 https://youtu.be/TUa0td7YnLE
@@ -9,9 +9,6 @@ https://easy....
 
 Paper title:
 Advancing Coronary Heart Disease Risk Prediction through Federated Learning: A Comparative Stud
-
-Paper presentation (anyone can view without login):
-
 
 Paper submission date (to workshop/conference):
 25 October 1999
